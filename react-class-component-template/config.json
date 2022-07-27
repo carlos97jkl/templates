@@ -1,3 +1,3 @@
 {
-  "variables": [ "{{component-name}}", "{{name}}", "{{test}}"]
+  "variables": [ "{{component-name}}", "{{name}}"]
 }
